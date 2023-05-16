@@ -1,0 +1,16 @@
+output = 'movies.csv'
+movie_data=[]
+for movie_id in movie_ids:
+    api_version = 3
+    api_base_url = f"https://api.themoviedb.org/{api_version}"
+    endpoint_path = f"/movie/{movie_id}"
+    endpoint = f"{api_base_url}{endpoint_path}?api_key={api_key}"
+    r=requests.get(endpoint)
+    if r.status_code in range(200,229):
+        data = r.json()
+        movie_data.append(data)
+
+st.write("## Table")
+df=pd.DataFrame(movie_data)
+st.write(df.head()) 
+df.to_csv(output,index=False)
