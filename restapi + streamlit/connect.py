@@ -69,7 +69,9 @@ if r.status_code in range(200,299):
             st.error("The movie is not available!!")        
         #st.write("## List of IDs")    
         #st.write(list(movie_ids))
-        
+
+
+
 
 df=pd.DataFrame(movie_title , columns= "title")
 st.table(data=df)
