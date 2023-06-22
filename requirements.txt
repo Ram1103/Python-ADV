@@ -1,7 +1,5 @@
-pandas 
 matplot
 base64
 seaborn 
-numpy
 altair
 yfinance
