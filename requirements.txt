@@ -1,5 +1,5 @@
 matplot
-base64
+pybase64
 seaborn 
 altair
 yfinance
