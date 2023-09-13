@@ -4,29 +4,29 @@
 
 This Python-based project consists of multiple web applications built using Streamlit. Each web app serves a unique purpose, allowing users to access and interact with various data and information.
 
-![Alt text](image-1.png)
+![Alt text](Screenshots\image-1.png)
 
 ### Web Apps
 
 1. **Stock of Google**
    - Description: This web app provides real-time stock price information for Google. Users can track the stock's performance over time and analyze historical data.
 
-![Alt text](image.png)
+![Alt text](Screenshots\image.png)
 
 2. **DNA**
    - Description: The DNA web app offers tools for DNA sequence analysis. Users can input DNA sequences, perform tasks like sequence alignment, and visualize results.
 
-![Alt text](image-2.png)
+![Alt text](Screenshots\image-2.png)
 
 3. **NBA**
    - Description: Users can explore NBA statistics, including player profiles, team information, and game stats. The app provides insights into the current NBA season and historical data.
 
-![Alt text](image-3.png)
+![Alt text](Screenshots\image-3.png)
 
 4. **NFL**
    - Description: Similar to the NBA app, this web app offers NFL statistics, including player profiles, team details, and game data. Users can access information about the current NFL season and historical records.
 
-![Alt text](image-4.png)
+![Alt text](Screenshots\image-4.png)
 
 ### Access the Web Apps
 
