@@ -4,7 +4,7 @@
 
 This Python-based project consists of multiple web applications built using Streamlit. Each web app serves a unique purpose, allowing users to access and interact with various data and information.
 
-![Alt text](Screenshots\image-1.png)
+![Alt text](https://github.com/Ram1103/Python-ADV/blob/main/Screenshots/image-1.png)
 
 ### Web Apps
 
